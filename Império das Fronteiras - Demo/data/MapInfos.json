@@ -1,10 +1,12 @@
 [
 null,
 {"id":1,"expanded":true,"name":"CasaProtagonista","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":2,"expanded":false,"name":"Loja De Tônicos","order":5,"parentId":3,"scrollX":0,"scrollY":0},
-{"id":3,"expanded":true,"name":"Feira","order":3,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":2,"expanded":false,"name":"Loja De Tônicos","order":6,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":3,"expanded":true,"name":"Feira","order":4,"parentId":0,"scrollX":0,"scrollY":0},
 {"id":4,"expanded":false,"name":"CasaProtagonistaDentro","order":2,"parentId":1,"scrollX":0,"scrollY":0},
-{"id":5,"expanded":false,"name":"Loja de Armas","order":4,"parentId":3,"scrollX":0,"scrollY":0},
-{"id":6,"expanded":true,"name":"EntradaRestaurante","order":6,"parentId":3,"scrollX":0,"scrollY":0},
-{"id":7,"expanded":false,"name":"Restaurante","order":7,"parentId":6,"scrollX":0,"scrollY":0}
+{"id":5,"expanded":false,"name":"Loja de Armas","order":5,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":6,"expanded":true,"name":"EntradaRestaurante","order":7,"parentId":3,"scrollX":0,"scrollY":0},
+{"id":7,"expanded":false,"name":"Restaurante","order":8,"parentId":6,"scrollX":0,"scrollY":0},
+{"id":8,"expanded":false,"name":"Intro","order":9,"parentId":0,"scrollX":0,"scrollY":0},
+{"id":9,"expanded":false,"name":"CorredorCasaProtagonista","order":3,"parentId":1,"scrollX":0,"scrollY":0}
 ]

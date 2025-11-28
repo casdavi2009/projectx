@@ -1,4 +1,4 @@
 [
 null,
-{"id":1,"battlerName":"floki-lutando-armadura","characterIndex":0,"characterName":"Floki-andando-armadura","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Floki-rosto-armadura","traits":[],"initialLevel":1,"maxLevel":99,"name":"Floki Karlsefni","nickname":"","note":"","profile":""}
+{"id":1,"battlerName":"floki-lutando","characterIndex":0,"characterName":"floki-andando","classId":1,"equips":[2,0,0,3,0],"faceIndex":0,"faceName":"Floki-rosto","traits":[],"initialLevel":1,"maxLevel":99,"name":"Floki Karlsefni","nickname":"","note":"","profile":""}
 ]
