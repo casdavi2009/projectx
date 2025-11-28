@@ -8,5 +8,6 @@ null,
 {"id":6,"expanded":true,"name":"EntradaRestaurante","order":7,"parentId":3,"scrollX":0,"scrollY":0},
 {"id":7,"expanded":false,"name":"Restaurante","order":8,"parentId":6,"scrollX":0,"scrollY":0},
 {"id":8,"expanded":false,"name":"Intro","order":9,"parentId":0,"scrollX":0,"scrollY":0},
-{"id":9,"expanded":false,"name":"CorredorCasaProtagonista","order":3,"parentId":1,"scrollX":0,"scrollY":0}
+{"id":9,"expanded":false,"name":"CorredorCasaProtagonista","order":3,"parentId":1,"scrollX":0,"scrollY":0},
+{"id":10,"expanded":false,"name":"Final","order":10,"parentId":0,"scrollX":0,"scrollY":0}
 ]
